@@ -1,0 +1,31 @@
+img{
+    Position:relative;
+    left: 500px;
+    bottom:0px;
+    width:30%;
+    display:block;}
+
+H1{
+    color:goldenrod
+}
+H3{
+    color:darkblue
+}
+
+    
+
+p1{
+    color:maroon;
+    font-family: "courier new";
+}
+
+p2{
+    
+    color:skyblue;
+    font-family: "calibri", Times, serif;
+}
+
+span{
+    text-decoration: underline;
+        color:brown;
+}
