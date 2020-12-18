@@ -1,0 +1,52 @@
+img{
+    Position:relative:absolute;
+    left: 10px;
+    bottom:10px;
+    width:30%;
+    display:block;
+    }
+
+video{
+    Position:relative;
+    left:500px;
+    top: -400px;
+    display:block;}
+    
+
+h1 {
+  color:darkorange;
+      border-style: solid;   
+ border-top-style: dotted;
+}
+
+p2{
+    
+    color:SlateBlue;
+    font-family: "calibri", Times, serif;
+     border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+
+span{
+    text-decoration: underline;
+    color:MediumPurple;}
+
+ body{
+        background-image:url(image/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+    }
+
+button {
+    
+    color:LightSkyBlue
+}
+
+p{
+     border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+color:chocolate;
+}
